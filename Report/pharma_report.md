@@ -2500,3 +2500,9 @@ After completing the data cleaning process in Power Query, the final columns in 
 
     - All graphs and BANs were tested for slicer responsiveness to ensure interactivity across all dashboards.
 
+## License
+
+This project is licensed under the Creative Commons Attribution-NonCommercial 4.0 International License (CC BY-NC 4.0).  
+You may use, share, and adapt the work for non-commercial purposes, provided you give appropriate credit.
+
+[View the full license](https://creativecommons.org/licenses/by-nc/4.0/)
