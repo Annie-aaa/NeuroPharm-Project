@@ -150,7 +150,7 @@ This structured and cleansed dataset underpins the subsequent analyses and visua
 ## 4. Insights and Recommendations
 ### 4.1. Dashboard 1: Investigation Trends & Root Causes
 
-![alt text](../Images/dashboard 1.png)
+![alt text](../Images/<dashboard 1.png>)
 
 ---
 #### 4.1.1. Insights & Recommendations by Department
