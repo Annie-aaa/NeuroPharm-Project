@@ -870,7 +870,7 @@ This structured and cleansed dataset underpins the subsequent analyses and visua
 
 ---
 ### 4.2. Dashboard 2: Resolution Performance & Severity
-![alt text](../Images/dashboard 2.png)
+![alt text](../Images/dashboard%202.png)
 
 #### 4.2.1. Insights and Recommendations by Department
 - **Overall Departmental Observations**:
@@ -1339,7 +1339,7 @@ This structured and cleansed dataset underpins the subsequent analyses and visua
 
 ---
 ### 4.3. Dashboard 3: Product Quality Metrics and Variability
-![alt text](../Images/dashboard 3.png)
+![alt text](../Images/dashboard%203.png)
 
 ---
 #### 4.3.1. Insights and Recommendations by Department
